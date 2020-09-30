@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">GeoQuiz</string>
+    <string name="true_button">TRUE</string>
+    <string name="flase_button">FLASE</string>
+    <string name="correct_toast">Correct !</string>
+    <string name="incorrect_toast">InCorrect !</string>
+    <string name="qustion_text"></string>
+    <string name="qustion_Sanaa1">Is Sanaa the capital of yemen1</string>
+    <string name="question_comercial1">Is Hodaidah is the comercial city in Yemen1 </string>
+    <string name="question_coin1">Is dollar the official coin in Yemen1</string>
+    <string name="question_ibb1">Is IBB the greenland in Yemen1</string>
+    <string name="question_Taiz">Is Taiz has the largest population in Yemen?</string>
+    <string name="question_Marieb">Has Marieb a fule?</string>
+    <string name="question_level2_1">Is Budapest the capital of Hungary?</string>
+    <string name="question_level2_2">Was Hetler the presdient of Russia</string>
+    <string name="qustion_level2_3">Marrakesh is the capital of Morocco</string>
+    <string name="question_level2_4">The unicorn is the national animal of Scotland</string>
+    <string name="question_level2_5">The Great Wall of China is longer than the distance between London and Beijing</string>
+    <string name="question_level2_6">_A_ is the most common letter used in the English language</string>
+    <string name="question_level3_1">Monaco is the smallest country in the world</string>
+    <string name="question_level3_2">There are five different blood groups</string>
+    <string name="qustion_level3_3">Serena Williams has one more singles tennis Grand Slam titles than sister Venus</string>
+    <string name="question_level3_4">Alexander Fleming discovered penicillin</string>
+    <string name="question_level3_5">The river Seine in Paris is longer than the river Thames in Londong</string>
+    <string name="question_level3_6">Cinderella was the first Disney princess</string>
+    <string name="warning_text">Are you sure you want to do this?</string>
+    <string name="show_answer_button">Show Answer</string>
+    <string name="cheat_button">Cheat!</string>
+    <string name="judgment_toast">Cheating is wrong.</string>
+
+</resources>
